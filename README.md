@@ -21,7 +21,6 @@ build-nanogpt
 gpt-2
 
 ->  repo directly cloned from OpenAI for reference
-
     [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
 
 
