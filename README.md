@@ -21,7 +21,7 @@
 
 ## Other References
 * As Andrej mentioned in his video, original gpt-2 uses TensorFlow code that we may be harder to use for now. Hence, Codes in "build-nanogpt" are re-built in PyTorch.  
-(with HuggingFace Transformers Library as a reference)  
+(with [HuggingFace Transformers Library](https://github.com/huggingface/transformers/blob/main/src/transformers/models/gpt2/modeling_gpt2.py) as a reference)  
 * Tokenlized with Tiktoken.  
 * Tiny Shakespeare dataset (for development) and fineweb edu 10B dataset (for training & validation) are used.  
 * HellaSwag dataset is used for evaluation.  
