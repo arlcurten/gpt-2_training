@@ -10,14 +10,14 @@ Let's reproduce GPT-2 (124M)
 
 
 ## <Directories>
-### build-nanogpt
+build-nanogpt
 ->  repo cloned from Andrej Karpathy 
 
     https://github.com/karpathy/build-nanogpt
     
     and processed
 
-### gpt-2
+gpt-2
 ->  repo directly cloned from OpenAI for reference
 
     https://github.com/openai/gpt-2
