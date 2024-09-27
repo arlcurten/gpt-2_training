@@ -5,22 +5,24 @@ Let's reproduce GPT-2 (124M)
 
     by Andrej Karpathy
     
-    https://www.youtube.com/watch?v=l8pRSuU81PU&t=9948s
+    [https://www.youtube.com/watch?v=l8pRSuU81PU&t=9948s](https://www.youtube.com/watch?v=l8pRSuU81PU&t=9948s)
 
 
 
 ## <Directories>
 build-nanogpt
+
 ->  repo cloned from Andrej Karpathy 
 
-    https://github.com/karpathy/build-nanogpt
+    [https://github.com/karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt)
     
     and processed
 
 gpt-2
+
 ->  repo directly cloned from OpenAI for reference
 
-    https://github.com/openai/gpt-2
+    [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
 
 
 
