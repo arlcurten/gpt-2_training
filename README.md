@@ -20,7 +20,7 @@ build-nanogpt
 
 gpt-2
 
-->  repo directly cloned from OpenAI for reference
+->  repo directly cloned from OpenAI for reference\n
     [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
 
 
