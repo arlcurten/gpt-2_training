@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [https://www.youtube.com/watch?v=l8pRSuU81PU&t=9948s](https://www.youtube.com/watch?v=l8pRSuU81PU&t=9948s)
 
 
-## Trining Optimization Techniques
+## Training Optimization Techniques
 CUDA Distributed Data Parallel (DDP) with multiple GPUs, quantizing from FP32 to BF16 (utilizing Tensor Cores), kernel fusion, and gradient accumulation.
 
 
